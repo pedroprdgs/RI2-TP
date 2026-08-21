@@ -24,8 +24,8 @@ let clientes = [
     cliente1,
     cliente2,
     cliente3
-]
+];
 
 let clientesOrdenados = ordenarClientes(clientes);
-
 console.log(clientesOrdenados);
+console.log("Isso é um easter egg");
